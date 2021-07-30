@@ -1,7 +1,7 @@
 # Oracle
 Oracle + Oracle PL/SQL
 
-## PL/SQL
+## [PL/SQL](https://github.com/kHeNoTbB/Oracle/tree/main/PLSQL)
 * SQL : 집합적 언어
 * PL/SQL : 절차적 언어
   * Prodecural-SQL ; SQL을 이용해 집합적으로 데이터를 필요에 맞게 처리하며, 이렇게 처리한 SQL을 절차적으로 사용함
